@@ -21,3 +21,6 @@ dependencies:
   - matplotlib
   - intake
   - s3fs
+  - xarray
+  - intake-xarray
+  - rasterio
