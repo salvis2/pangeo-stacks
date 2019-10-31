@@ -1,4 +1,5 @@
 #!/bin/bash
+# This file is lifted from https://github.com/scottyhq/pangeo-binder-test/blob/master/binder/postBuild
 set -euo pipefail
 
 # labextensions
